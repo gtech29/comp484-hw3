@@ -1,5 +1,3 @@
-https://github.com/gtech29/comp484-hw3
-
 # COMP 484 – Creating Links Assignment
 
 The main focus of this project is to improve navigation and accessibility. The purpose of the assignment was to practice creating clear, meaningful link that allow the users to jump between pages, access outside resources, and jump to a specific part of a page.
