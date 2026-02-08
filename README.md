@@ -1,8 +1,8 @@
 # COMP 484 – Creating Links Assignment
 
-The main focus of this project is to improve navigation and accessibility. The purpose of the assignment was to practice creating clear, meaningful link that allow the users to jump between pages, access outside resources, and jump to a specific part of a page.
+The main focus of this project is to improve navigation and accessibility. The purpose of the assignment is to practice creating clear, meaningful links that allow the users to jump between pages, access outside resources, and jump to a specific part of a page.
 
-The changes made focus on clarity, consistency and ease of use from a visitor's point of view.
+The changes focused on clarity, consistency and ease of use from a visitor's point of view.
 
 ---
 
@@ -22,7 +22,7 @@ The changes made focus on clarity, consistency and ease of use from a visitor's 
 
 ---
 
-### External Links (links.htm)
+### External Links (links.html)
 
 - Turned the first reference to **CSUN** in the footer into a link to the official CSUN website.
 - Set the link to open in a new tab or window so users don’t lose their place on the site.
@@ -54,5 +54,9 @@ Overall, the site is now easier to navigate, more intuitive to use, and is more 
 ## Course Information
 
 **Course:** COMP 484 – Web Engineering
+
+
 **Assignment:** Creating Links
+
+
 **Student:** Juan Rodriguez
